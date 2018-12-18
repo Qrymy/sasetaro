@@ -17,12 +17,16 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: url("https://firebasestorage.googleapis.com/v0/b/sasetaroh.appspot.com/o/DurH69fV4AAKo_X.jpg?alt=media&token=752f0f76-2922-4ea6-8612-e982757ac36d")
+    top left repeat / 180px 226px;
   background-color: brown;
 }
 
 .m-main-title {
-  color: white;
-  font-size: 36px;
+  color: yellow;
+  font-size: 24px;
+  text-shadow: 2px 2px red;
+  background-color: black;
 }
 
 .m-main-icon {
